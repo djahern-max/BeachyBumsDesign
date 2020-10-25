@@ -3,14 +3,28 @@ body {
 }
 
 img.resize {
-  width: 540px;
+  width: 250px;
   /* you can use % */
   height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 20px;
 }
 
 .nav {
   color: #fff;
+}
+
+.heading {
+  text-align: center;
+  color:#1c2b2d;
+  font-family: 'Shadows Into Light', cursive;
+  margin-top: 20px;
+}
+
+.navFont {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+
 }
