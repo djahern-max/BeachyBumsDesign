@@ -1,0 +1,16 @@
+body {
+  background-color: #f8efd4;
+}
+
+img.resize {
+  width: 540px;
+  /* you can use % */
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav {
+  color: #fff;
+}
